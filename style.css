@@ -1,0 +1,15 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #b3b3b3;
+}
+
+#gallery {
+  background-color: #b3b3b3;
+  padding-bottom: 3rem;
+}
+
+.card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
